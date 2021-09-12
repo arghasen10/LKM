@@ -7,7 +7,7 @@ Linux Kernel Module or Loadable Kernel Module to play with Linux Kernels.
 To run the kernel modules, follow the following instructions:
 ```bash
     make
-    insmod deque.ko
+    sudo insmod deque.ko
     chmod +x userbash.sh
     sudo su
     ./userbash.sh
