@@ -26,3 +26,8 @@ To run the kernel modules, follow the instructions:
     gcc userspace.c -o user
     ./user
     sudo rmmod 20CS92P05
+ ```
+ ## Requirements 
+ Kernel Version : `5.6.9-generic`
+ 
+ OS : `Ubuntu 20.04 LTS`
